@@ -19,5 +19,6 @@ while True:
     screen.blit(test_surface, (0,0) )
     
     pygame.display.update()
-    clock.tick(60)
+    clock.tick(60)\
+        kbkhb
     
